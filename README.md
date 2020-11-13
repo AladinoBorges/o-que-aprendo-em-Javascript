@@ -84,6 +84,9 @@ Cada algoritmo está relativamente bem comentado ou eu explico em forma de comen
 
 Todas as contribuições para esse repositório são bem-vindas desde que os códigos sejam ou estejam muito bem comentados.
 
+Material auxiliar que uso para aprender Javascript (em constante atualização):
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+
 Com carinho,
 
 Aladino Borges
