@@ -1,4 +1,4 @@
-ALGORITMO PARA TROCAR O VALOR DE UMA VARIÁVEL X PELO VALOR DE OUTRA VARIÁVEL Y:
+//ALGORITMO PARA TROCAR O VALOR DE UMA VARIÁVEL X PELO VALOR DE OUTRA VARIÁVEL Y:
 
 //Primeiro declaramos o valor das variáveis iniciais (usar let em vez de var):
 
